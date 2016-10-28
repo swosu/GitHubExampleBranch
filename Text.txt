@@ -3,10 +3,19 @@ Text Document
 part 1
 
 some stuff we worked hard on.
+Steve is great.
+I like pineapple.
+We should eat more pizza.
 
 part 2
 
 more brilliant stuff
+
+I don't like steve.
+
+I don't eat fruit.
+
+I think turtles are slow and uninteresting.
 
 
 part 3
